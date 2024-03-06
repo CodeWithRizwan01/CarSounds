@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229979893620",
+    "project_id": "car-sounds-4c18f",
+    "storage_bucket": "car-sounds-4c18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229979893620:android:046e6f9e53f5e522c48621",
+        "android_client_info": {
+          "package_name": "com.carsoundssimulator.realcarenginesounds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YKneqezGdwQmg26RKj9fQ0taVfy1yPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
